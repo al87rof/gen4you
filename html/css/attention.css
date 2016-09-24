@@ -1,0 +1,13 @@
+﻿@import url("reset.css");
+header,aside,article,section,footer{display:block}
+html,body{width:100%;height:100%}
+body{background:#FFC;text-align:center}
+h1{font:normal 36px "Times New Roman",Times,serif;letter-spacing:5px;border-bottom:1px solid #ddd;margin:0}
+h2{font:normal 24px Arial,Helvetica,sans-serif;color:#00EB00}
+#container{margin:40px auto;width:390px;color:#555}
+#countdown_dashboard{height:115px}
+.dash{width:110px;height:114px;background:transparent url(../images/dash.png) 0 0 no-repeat;float:left;margin-left:20px;position:relative}
+.dash .digit{font:bold 55pt Times;text-align:center;position:relative;width:55px;float:left;color:#555}
+.dash_title{position:absolute;display:block;bottom:0px;right:6px;font-size:9pt;color:#555;text-transform:uppercase;letter-spacing:2px}
+.warning{margin-top:10px;margin-bottom:10px;color:#F00;font:normal 16pt "Verdana",Times,serif;text-align:center}
+.link{display:none;background:url(../images/button.png);text-decoration:none;width:95px;height:26px;margin:auto;padding-top:7px;font:normal 14px Arial,Helvetica,sans-serif;color:#800000}

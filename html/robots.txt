@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /classes
+Sitemap: http://freegen.tk/sitemap.xml

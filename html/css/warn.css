@@ -1,0 +1,11 @@
+﻿@import url("reset.css");
+a:link{color:#00F;text-decoration:none;font-weight:bold}
+a:visited{text-decoration:none;color:#00F}
+a:hover{text-decoration:underline;color:#344cb0}
+a:active{text-decoration:none;color:#f00}
+header,aside,article,section,footer{display:block}
+html,body{width:100%;height:100%}
+body{background:#FFF;text-align:center}
+h1{font:normal 36px "Times New Roman",Times,serif;letter-spacing:5px;border-bottom:1px solid #ddd;margin:0}
+p{font:normal 14px Verdana,Geneva,sans-serif;margin:10px}
+.img2{width:600px;height:595px;background:url(../images/warning.jpg);margin:auto}

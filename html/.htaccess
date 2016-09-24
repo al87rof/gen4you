@@ -1,0 +1,8 @@
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+Options All -Indexes
+<ifModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml application/xhtml+xml text/css text/javascript application/javascript application/x-javascript
+</ifModule>

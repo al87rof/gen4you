@@ -1,0 +1,1459 @@
+Time: 2016-03-31 23:59:52	From: 108.170.13.22:8888	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 00:00:08	From: 108.170.13.21:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 00:00:29	From: 104.209.182.251:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 00:00:50	From: 108.170.13.23:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 02:18:51	From: 5.172.189.131:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-01 02:19:11	From: 108.170.13.22:8888	Partner: http://www.wytewolfbtc.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 05:56:42	From: 5.172.189.131:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-01 06:56:05	From: 78.23.101.55:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-01 09:11:32	From: 136.0.16.217:3127	Partner: http://faucet.pinktussy.co	Response: Insufficient funds.
+Time: 2016-04-01 09:15:42	From: 108.170.13.24:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 09:16:35	From: 108.170.13.22:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 09:16:52	From: 5.172.189.131:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 09:17:15	From: 104.209.182.251:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-01 09:17:38	From: 108.170.13.23:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-01 09:17:59	From: 194.2.224.249:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-01 10:19:53	From: 136.0.16.217:8089	Partner: http://www.wytewolfbtc.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 10:23:12	From: 54.174.103.155:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-01 10:23:41	From: 5.172.189.131:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-01 10:24:19	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 10:25:03	From: 177.136.224.19:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-01 10:25:36	From: 211.48.0.116:8080	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 10:26:33	From: 45.32.251.178:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 10:27:12	From: 159.203.80.26:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 10:27:49	From: 200.33.74.106:3128	Partner: http://freebtcoins.com	Response: 100 satoshi was sent to 
+Time: 2016-04-01 12:11:32	From: 54.215.141.227:8888	Partner: http://www.wytewolfbtc.com	Response: 200 satoshi was sent to you 
+Time: 2016-04-01 12:13:13	From: 62.244.16.86:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-01 12:45:01	From: 207.135.97.21:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 12:46:28	From: 45.63.107.166:80	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-01 14:14:31	From: 62.244.16.86:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-01 14:30:15	From: 104.236.104.50:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 14:30:16	From: 104.236.104.50:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 14:31:43	From: 104.236.104.50:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 14:31:44	From: 104.236.104.50:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 14:31:53	From: 118.193.20.78:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-01 15:04:13	From: 54.215.141.227:8888	Partner: http://faucet.pinktussy.co	Response: 150 satoshi was sent to 
+Time: 2016-04-01 15:23:03	From: 118.193.20.78:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-01 15:23:32	From: 177.136.224.19:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-01 15:41:59	From: 54.215.141.227:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 15:42:41	From: 108.170.13.21:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-01 15:43:01	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 15:43:31	From: 86.14.249.58:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-01 16:04:12	From: 177.136.224.19:8080	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 16:23:10	From: 134.249.168.16:80	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 16:45:40	From: 104.40.92.18:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 17:30:42	From: 187.109.231.164:8080	Partner: http://faucet.pinktussy.co	Response: 
+Time: 2016-04-01 17:30:55	From: 62.244.16.86:3128	Partner: http://faucet.pinktussy.co	Response: 150 satoshi was sent to 
+Time: 2016-04-01 17:43:52	From: 162.144.201.215:8080	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 20:09:05	From: 62.244.16.86:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-01 21:05:46	From: 178.62.247.158:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-01 21:57:58	From: 178.62.247.158:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 21:58:14	From: 108.170.13.24:8888	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 21:58:35	From: 177.136.224.19:8080	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 21:59:13	From: 162.144.201.215:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 22:01:06	From: 62.77.233.211:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:01:55	From: 201.48.251.244:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-01 22:21:55	From: 54.187.148.129:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:22:19	From: 52.53.223.180:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:22:42	From: 52.23.160.40:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:23:04	From: 213.217.99.111:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:23:30	From: 54.153.84.143:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:24:16	From: 195.89.201.48:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:25:05	From: 52.53.213.97:8083	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-01 22:27:26	From: 81.169.154.244:3128	Partner: http://www.wytewolfbtc.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 22:27:55	From: 101.200.182.29:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 22:28:31	From: 78.23.101.55:3128	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 22:28:49	From: 200.33.74.106:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 22:29:52	From: 181.40.112.194:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-01 22:30:27	From: 120.52.72.20:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-01 22:41:55	From: 24.246.120.35:8080	Partner: http://www.wytewolfbtc.com	Response: 200 satoshi was sent to you 
+Time: 2016-04-01 22:55:04	From: 62.244.16.86:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 22:55:28	From: 108.170.13.24:8888	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 22:55:45	From: 24.246.120.35:8080	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 22:56:06	From: 46.118.24.107:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 22:56:48	From: 52.53.242.132:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 22:57:18	From: 54.187.188.91:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 23:12:56	From: 104.238.151.161:8888	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-01 23:13:24	From: 201.48.251.244:3128	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-01 23:14:04	From: 81.169.154.244:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 23:27:41	From: 120.52.72.23:80	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-01 23:28:25	From: 200.33.74.106:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-01 23:28:52	From: 188.203.209.91:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-01 23:29:35	From: 104.209.182.251:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-01 23:30:11	From: 120.52.72.27:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-01 23:30:49	From: 120.198.244.29:8081	Partner: http://www.wytewolfbtc.com	Response: 200 satoshi was sent to you 
+Time: 2016-04-02 00:28:53	From: 52.53.213.97:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-02 00:29:12	From: 81.169.154.244:3128	Partner: http://www.wytewolfbtc.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 00:30:17	From: 200.33.74.106:3128	Partner: http://kran-satoshi.ru	Response: 158 satoshi was sent to you 
+Time: 2016-04-02 01:08:33	From: 62.244.16.86:3128	Partner: http://faucet.pinktussy.co	Response: Insufficient funds.
+Time: 2016-04-02 01:09:06	From: 108.170.13.24:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-02 02:19:22	From: 91.121.29.217:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-02 02:19:44	From: 51.255.197.171:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-02 06:00:46	From: 62.244.16.86:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-02 07:33:46	From: 62.244.16.86:3128	Partner: http://kran-satoshi.ru	Response: Invalid captcha code!
+Time: 2016-04-02 11:18:32	From: 178.62.247.158:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-02 11:30:21	From: 101.200.178.46:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-02 11:41:47	From: 81.169.154.244:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 12:18:17	From: 62.244.16.86:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 12:23:20	From: 104.131.112.63:4444	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-02 12:25:27	From: 190.202.82.236:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-02 12:29:16	From: 62.244.16.86:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 12:29:49	From: 51.255.197.171:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 12:30:14	From: 81.169.154.244:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-02 12:40:08	From: 136.0.16.217:8089	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 12:40:28	From: 51.255.197.171:8080	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-02 12:40:47	From: 81.169.154.244:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 12:41:12	From: 200.33.74.106:3128	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 12:57:19	From: 62.244.16.86:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 15:16:09	From: 181.40.112.194:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-02 15:33:39	From: 62.244.16.86:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 15:57:59	From: 177.189.243.217:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 16:41:00	From: 81.169.154.244:3128	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-02 16:41:25	From: 177.189.243.217:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 16:41:56	From: 200.33.74.106:3128	Partner: http://faucet.pinktussy.co	Response: 150 satoshi was sent to 
+Time: 2016-04-02 17:18:17	From: 177.189.243.217:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-02 17:19:45	From: 101.200.181.36:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-02 17:20:00	From: 101.200.181.36:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-02 18:05:02	From: 120.198.244.29:8080	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-02 18:35:20	From: 87.255.70.228:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-04-02 18:38:48	From: 123.57.23.114:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-02 18:58:14	From: 200.33.74.106:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 19:01:13	From: 120.198.244.29:80	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-02 19:09:10	From: 209.79.65.140:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 19:09:39	From: 87.255.70.228:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-02 19:19:54	From: 89.36.219.76:8888	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 19:21:19	From: 190.158.245.98:8080	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-02 19:36:07	From: 89.36.219.76:8888	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-02 19:36:41	From: 162.144.201.215:8080	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 21:33:34	From: 186.235.186.253:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-02 21:34:43	From: 108.170.13.22:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-02 21:35:37	From: 105.211.254.16:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-02 21:36:10	From: 177.136.224.19:8080	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-02 21:37:09	From: 117.240.209.39:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-03 00:33:03	From: 62.244.16.86:3128	Partner: http://faucet.pinktussy.co	Response: Insufficient funds.
+Time: 2016-04-03 01:13:05	From: 105.211.254.16:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-03 01:42:41	From: 45.62.106.180:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 02:36:47	From: 62.244.16.86:3128	Partner: http://kran-satoshi.ru	Response: 158 satoshi was sent to you 
+Time: 2016-04-03 02:39:42	From: 45.62.106.180:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 03:08:58	From: 45.62.106.180:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 05:05:25	From: 178.62.247.158:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-03 05:06:12	From: 178.62.247.158:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-03 06:19:37	From: 62.244.16.86:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-03 06:29:07	From: 124.244.77.129:80	Partner: http://faucet.pinktussy.co	Response: Insufficient funds.
+Time: 2016-04-03 07:02:04	From: 62.244.16.86:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-03 07:02:15	From: 62.244.16.86:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-03 07:02:15	From: 62.244.16.86:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-03 07:02:16	From: 62.244.16.86:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-03 07:02:45	From: 108.170.13.23:8888	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-03 07:30:41	From: 45.62.106.180:3128	Partner: http://www.wytewolfbtc.com	Response: Invalid captcha code!
+Time: 2016-04-03 08:12:11	From: 45.62.106.180:3128	Partner: http://kran-satoshi.ru	Response: 
+Time: 2016-04-03 08:50:35	From: 13.75.105.192:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-03 10:36:50	From: 120.52.72.26:80	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-03 11:07:27	From: 24.246.120.35:8080	Partner: http://faucet.pinktussy.co	Response: Insufficient funds.
+Time: 2016-04-03 11:49:35	From: 108.170.13.23:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-03 14:41:47	From: 200.33.74.106:3128	Partner: http://free-satoshi.eu	Response: Invalid captcha code!
+Time: 2016-04-03 14:42:13	From: 188.203.209.91:3128	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-03 15:53:35	From: 103.251.180.2:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-03 16:00:22	From: 5.172.189.131:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-03 17:01:11	From: 188.203.209.91:3128	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-03 17:01:21	From: 188.203.209.91:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-03 17:12:32	From: 87.255.70.228:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-03 17:25:46	From: 87.255.70.228:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 17:27:06	From: 194.2.224.249:3128	Partner: http://www.wytewolfbtc.com	Response: Insufficient funds.
+Time: 2016-04-03 17:58:10	From: 24.246.120.35:8080	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 18:09:40	From: 5.172.189.131:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-03 18:37:20	From: 24.246.120.35:8080	Partner: http://free-satoshi.eu	Response: Insufficient funds.
+Time: 2016-04-03 18:38:15	From: 5.172.189.131:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-03 18:45:47	From: 87.255.70.228:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 19:40:42	From: 87.255.70.228:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-03 19:58:26	From: 24.246.120.35:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 19:58:58	From: 200.33.74.106:3128	Partner: http://www.wytewolfbtc.com	Response: Insufficient funds.
+Time: 2016-04-03 19:59:14	From: 5.172.189.131:3128	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 19:59:41	From: 87.255.70.228:3128	Partner: http://faucet.pinktussy.co	Response: 
+Time: 2016-04-03 20:00:04	From: 209.79.65.140:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 20:01:15	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-03 20:02:28	From: 188.203.209.91:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-03 21:27:03	From: 200.33.74.106:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 22:26:12	From: 136.0.16.217:3127	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 22:26:27	From: 108.170.13.22:8888	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 23:47:39	From: 178.32.218.104:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-03 23:48:26	From: 24.246.120.35:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-03 23:48:48	From: 5.172.189.131:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 23:49:15	From: 108.170.13.24:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-03 23:50:13	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-03 23:50:41	From: 136.0.16.217:3127	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-03 23:51:04	From: 81.169.154.244:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 00:21:18	From: 200.33.74.106:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-04 00:22:32	From: 203.91.121.76:3128	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-04 02:29:53	From: 200.33.74.106:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-04 02:30:17	From: 5.172.189.131:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-04 02:30:28	From: 136.0.16.217:8089	Partner: http://kran-satoshi.ru	Response: 158 satoshi was sent to you 
+Time: 2016-04-04 03:04:14	From: 108.170.13.22:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 03:05:09	From: 108.170.13.24:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-04 03:05:32	From: 124.244.77.129:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-04 03:06:23	From: 108.170.13.21:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 07:54:29	From: 	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 08:29:04	From: 108.170.13.22:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 11:40:03	From: 5.172.189.131:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-04 11:40:17	From: 108.170.13.22:8888	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 11:40:29	From: 108.170.13.21:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 11:40:47	From: 194.2.224.249:3128	Partner: http://free-satoshi.eu	Response: Invalid captcha code!
+Time: 2016-04-04 11:41:04	From: 108.170.13.24:8888	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 11:41:42	From: 177.136.224.19:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-04 12:50:37	From: 52.53.209.127:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 12:51:00	From: 54.200.104.164:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 15:18:10	From: 54.213.172.78:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 15:18:28	From: 54.213.226.129:8083	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 15:18:51	From: 54.210.193.158:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-04 15:19:06	From: 54.201.123.214:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 15:19:32	From: 52.90.184.141:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 16:28:34	From: 54.201.123.214:8083	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 16:28:49	From: 54.201.213.220:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 16:29:09	From: 52.90.53.5:8083	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-04 16:29:25	From: 52.53.237.11:8083	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 16:29:33	From: 52.90.69.217:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 16:30:11	From: 122.95.4.32:8118	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-04 16:30:32	From: 52.53.214.214:8083	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-04 17:13:22	From: 191.7.142.70:80	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 17:20:38	From: 54.200.104.164:8083	Partner: http://faucet.pinktussy.co	Response: 150 satoshi was sent to 
+Time: 2016-04-04 17:21:28	From: 191.7.142.70:80	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-04 17:21:33	From: 191.7.142.70:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-04 17:36:54	From: 54.213.172.78:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-04 17:37:12	From: 52.90.184.141:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 17:37:23	From: 52.53.214.81:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 17:59:40	From: 54.200.104.164:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 18:18:44	From: 54.201.213.220:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 18:19:09	From: 52.53.237.11:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 19:01:30	From: 54.201.213.220:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 19:08:07	From: 54.201.111.214:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 20:51:39	From: 111.47.171.57:3128	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 20:52:05	From: 52.53.237.11:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-04 20:52:36	From: 52.53.214.214:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-04 20:53:08	From: 54.201.111.214:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-04 21:10:49	From: 52.90.184.141:8083	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-04 21:11:02	From: 86.105.212.38:80	Partner: http://kran-satoshi.ru	Response: 158 satoshi was sent to you 
+Time: 2016-04-04 22:31:04	From: 52.53.214.81:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-04 22:50:23	From: 52.53.214.214:8083	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-04 22:50:43	From: 54.210.140.247:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-04 22:50:56	From: 52.36.46.12:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-04 22:51:15	From: 52.53.217.181:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-05 00:26:40	From: 54.201.111.214:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-05 00:53:28	From: 54.200.249.67:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-05 00:54:12	From: 54.187.148.129:8083	Partner: http://www.wytewolfbtc.com	Response: Invalid captcha code!
+Time: 2016-04-05 00:57:48	From: 52.53.245.0:8083	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-05 11:04:38	From: 52.90.205.82:8083	Partner: http://kran-satoshi.ru	Response: 158 satoshi was sent to you 
+Time: 2016-04-05 11:47:21	From: 52.36.46.12:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-05 11:48:00	From: 54.200.161.239:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-05 11:48:25	From: 52.90.115.7:8083	Partner: http://free-satoshi.eu	Response: 
+Time: 2016-04-05 11:48:50	From: 54.210.175.119:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-05 11:49:17	From: 54.200.109.65:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-05 11:49:50	From: 52.90.56.207:8083	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-05 16:10:27	From: 54.213.219.195:8083	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-05 16:10:53	From: 54.200.123.186:8083	Partner: http://faucet.pinktussy.co	Response: Wrong captcha, try again!
+Time: 2016-04-05 16:11:09	From: 52.53.241.96:8083	Partner: http://faucet.pinktussy.co	Response: 500 satoshi was sent to 
+Time: 2016-04-05 16:57:08	From: 54.213.219.195:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-05 16:58:40	From: 54.213.219.195:8083	Partner: http://kran-satoshi.ru	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-05 16:58:59	From: 54.200.123.186:8083	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-05 16:59:12	From: 54.218.46.104:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-05 18:24:56	From: 54.200.123.186:8083	Partner: http://www.wytewolfbtc.com	Response: 
+Time: 2016-04-05 18:44:04	From: 54.213.148.20:8083	Partner: http://faucet.pinktussy.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-05 18:57:04	From: 54.208.20.228:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-05 19:06:28	From: 52.53.241.96:8083	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-04-05 20:05:24	From: 54.213.148.20:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-05 20:09:56	From: 51.255.165.184:3128	Partner: http://www.wytewolfbtc.com	Response: 100 satoshi was sent to you 
+Time: 2016-04-05 20:29:46	From: 117.240.209.39:8080	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-05 20:30:35	From: 54.208.28.57:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-05 20:31:01	From: 52.53.254.94:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-05 20:46:41	From: 52.53.241.96:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-05 20:59:11	From: 51.255.165.184:3128	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-05 21:36:11	From: 51.255.165.184:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-05 21:54:21	From: 52.87.246.157:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-06 00:08:41	From: 51.255.165.184:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 01:57:53	From: 54.201.192.216:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-06 01:58:19	From: 52.37.57.116:8083	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-06 02:42:04	From: 54.201.192.216:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 04:24:39	From: 52.37.57.116:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 05:20:58	From: 54.209.204.230:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 05:22:52	From: 52.53.242.85:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-06 05:43:21	From: 54.213.3.208:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 07:53:19	From: 54.213.121.69:8083	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-06 08:06:39	From: 52.53.242.128:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-06 08:07:21	From: 52.53.242.85:8083	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-06 08:12:23	From: 52.53.242.128:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 09:50:37	From: 195.89.201.48:80	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-06 09:58:27	From: 194.75.53.21:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 09:58:37	From: 194.75.53.21:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-06 10:00:26	From: 101.200.182.29:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-06 10:06:56	From: 120.52.72.22:80	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-06 10:23:43	From: 190.202.82.236:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-06 10:24:17	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-06 10:24:18	From: 190.202.82.236:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-06 10:24:20	From: 190.202.82.236:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 11:04:41	From: 120.198.244.29:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-06 11:12:29	From: 104.209.182.251:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 11:13:24	From: 190.158.245.98:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-06 11:13:50	From: 177.130.59.66:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-06 11:34:47	From: 120.198.244.29:80	Partner: http://coins4america.com	Response: You can get a reward again in 2 hours, 29 mins, 57 secs.
+Time: 2016-04-06 12:31:44	From: 145.255.15.37:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-06 12:53:12	From: 59.125.173.170:80	Partner: http://www.bitcoinsreward.com	Response: satoshi was sent to you
+Time: 2016-04-06 13:55:55	From: 148.251.248.106:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 13:57:01	From: 124.244.77.129:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-06 13:57:27	From: 134.249.168.16:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-06 14:42:24	From: 5.172.189.131:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-06 14:42:50	From: 5.172.189.131:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-06 14:59:00	From: 200.7.170.217:8080	Partner: http://witchfaucet.com	Response: Invalid captcha code!
+Time: 2016-04-06 14:59:52	From: 150.165.111.80:8080	Partner: http://witchfaucet.com	Response: Invalid captcha code!
+Time: 2016-04-06 15:00:22	From: 47.90.1.211:80	Partner: http://witchfaucet.com	Response: 666 satoshi was sent to you 
+Time: 2016-04-06 19:32:23	From: 52.53.237.11:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-06 21:34:50	From: 134.249.168.16:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-06 21:35:31	From: 186.203.134.5:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-06 22:08:52	From: 188.203.209.91:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-06 22:09:04	From: 81.169.154.244:3128	Partner: http://www.bitcoinsreward.com	Response: 1503 satoshi was sent to you 
+Time: 2016-04-06 22:16:28	From: 136.0.16.217:7808	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-04-06 22:17:30	From: 209.79.65.140:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-06 22:28:26	From: 91.232.13.78:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-06 22:45:50	From: 186.203.134.5:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-06 22:46:29	From: 47.90.1.211:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-06 22:46:45	From: 136.0.16.217:8089	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-06 22:47:22	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-06 23:39:19	From: 186.203.134.5:3128	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-06 23:42:08	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 00:09:12	From: 91.90.164.115:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-07 00:41:28	From: 47.90.1.211:80	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 01:15:34	From: 54.200.104.164:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-07 01:17:56	From: 209.79.65.140:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-07 01:18:27	From: 221.176.14.72:80	Partner: http://www.bitcoinsreward.com	Response: 387 satoshi was sent to you 
+Time: 2016-04-07 03:23:58	From: 54.201.213.220:8083	Partner: http://www.bitcoinsreward.com	Response: 387 satoshi was sent to you 
+Time: 2016-04-07 06:35:38	From: 92.46.125.177:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-07 08:16:31	From: 92.46.125.177:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-07 08:24:52	From: 54.200.104.164:8083	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-07 10:23:10	From: 54.201.213.220:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-07 10:23:35	From: 52.53.237.11:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-07 10:24:20	From: 52.90.53.5:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-07 10:25:02	From: 52.53.219.173:8083	Partner: http://www.bitcoinsreward.com	Response: 387 satoshi was sent to you 
+Time: 2016-04-07 10:25:21	From: 91.121.29.217:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-07 11:46:27	From: 85.13.127.135:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-07 14:04:54	From: 119.29.136.207:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 16:58:37	From: 52.87.204.220:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-07 16:59:02	From: 52.37.57.116:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 16:59:34	From: 52.88.61.115:8083	Partner: http://www.bitcoinsreward.com	Response: Invalid captcha code!
+Time: 2016-04-07 16:59:47	From: 91.121.29.217:3128	Partner: http://www.bitcoinsreward.com	Response: 387 satoshi was sent to you 
+Time: 2016-04-07 17:56:52	From: 91.121.29.217:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-07 17:57:28	From: 52.53.249.194:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 17:58:12	From: 162.144.201.215:8080	Partner: http://www.bitcoinsreward.com	Response: 387 satoshi was sent to you 
+Time: 2016-04-07 18:02:37	From: 52.69.13.187:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-07 18:03:12	From: 52.69.13.187:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-07 18:20:28	From: 120.192.92.98:80	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 18:21:12	From: 51.254.133.188:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 18:24:52	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-07 18:24:55	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-07 18:25:17	From: 178.18.25.144:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 18:33:32	From: 178.32.218.104:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-07 18:40:30	From: 195.89.201.48:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 19:11:01	From: 87.255.70.228:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 19:21:44	From: 181.40.112.194:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 19:40:23	From: 140.130.190.222:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 19:40:47	From: 195.89.201.48:80	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-04-07 19:42:20	From: 122.95.4.32:8118	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-04-07 19:56:01	From: 104.215.93.212:3128	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 19:56:36	From: 149.91.83.211:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 21:08:20	From: 195.89.201.48:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-07 21:45:41	From: 120.198.244.29:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 21:46:31	From: 178.62.247.158:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-07 22:17:27	From: 78.25.70.74:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 22:18:04	From: 120.198.244.29:80	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 22:18:53	From: 192.34.60.4:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-07 22:19:02	From: 178.18.25.144:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-07 22:21:05	From: 87.255.70.228:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 22:21:39	From: 211.48.0.116:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-07 22:23:22	From: 188.203.209.91:3128	Partner: http://www.bitcoinsreward.com	Response: Invalid captcha code!
+Time: 2016-04-07 22:24:00	From: 197.243.50.242:3129	Partner: http://www.bitcoinsreward.com	Response: Empty request!
+Time: 2016-04-07 22:24:21	From: 139.59.248.12:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 22:25:12	From: 187.44.1.54:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-07 22:26:31	From: 91.232.13.78:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-07 22:28:39	From: 87.255.70.228:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-07 22:41:45	From: 195.89.201.48:80	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 23:29:40	From: 87.255.70.228:3128	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-07 23:30:02	From: 24.246.120.35:8080	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 23:30:32	From: 85.23.90.67:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-07 23:34:29	From: 146.185.128.225:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-07 23:50:24	From: 85.23.90.67:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-07 23:51:12	From: 186.203.134.5:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-07 23:51:35	From: 84.200.22.203:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-07 23:51:50	From: 178.18.25.144:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-08 09:04:45	From: 46.146.204.104:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-08 09:05:05	From: 186.203.134.5:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-08 09:05:36	From: 149.91.83.211:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-08 09:42:58	From: 40.74.50.109:3128	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-08 09:43:42	From: 62.210.52.37:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-08 09:44:16	From: 13.92.195.38:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-08 09:44:52	From: 104.214.147.138:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-08 10:35:45	From: 146.185.128.225:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-08 10:48:06	From: 91.232.13.78:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-08 11:38:08	From: 84.200.22.203:80	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-08 12:09:55	From: 123.56.228.224:8080	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-08 12:10:46	From: 178.18.25.144:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-08 12:11:57	From: 136.0.16.217:8089	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-08 12:12:20	From: 136.0.16.217:7808	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-08 14:44:31	From: 82.211.112.11:80	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-08 15:45:26	From: 189.89.227.117:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-08 16:48:36	From: 222.45.16.171:8118	Partner: http://www.bitcoinsreward.com	Response: Invalid captcha code!
+Time: 2016-04-08 17:17:33	From: 82.211.112.11:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-08 18:20:16	From: 128.199.199.163:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-08 18:21:38	From: 54.175.68.29:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-08 18:22:22	From: 54.233.65.203:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-08 18:56:18	From: 128.199.199.163:80	Partner: http://coins4america.com	Response: You can get a reward again in 2 hours, 26 mins, 4 secs.
+Time: 2016-04-08 18:57:07	From: 159.203.80.26:3128	Partner: http://witchfaucet.com	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-08 18:57:38	From: 136.0.16.217:7808	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-08 20:02:52	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-08 20:11:00	From: 136.0.16.217:7808	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-08 22:28:32	From: 54.233.65.203:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-08 22:59:29	From: 136.0.16.217:8089	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-08 23:43:57	From: 103.251.180.2:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-08 23:46:00	From: 128.199.199.163:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-08 23:46:17	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-08 23:46:32	From: 159.203.80.26:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-09 00:47:41	From: 178.33.227.212:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-09 00:48:16	From: 109.196.127.35:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-09 00:48:38	From: 136.0.16.217:7808	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-09 00:48:53	From: 136.0.16.217:8089	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-09 02:16:01	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-09 02:16:21	From: 159.203.80.26:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-09 07:54:05	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-04-09 18:40:46	From: 159.203.80.26:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-09 18:41:15	From: 178.32.218.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-09 18:41:50	From: 181.40.112.194:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-09 18:42:25	From: 140.130.190.222:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-09 19:10:28	From: 178.62.247.158:3128	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-09 19:10:53	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-09 19:10:58	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-09 19:30:57	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-09 20:19:12	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-09 23:39:39	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-09 23:39:57	From: 136.0.16.217:8089	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-10 02:01:00	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-10 07:15:14	From: 	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-10 10:06:34	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-10 10:07:18	From: 188.203.209.91:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-10 11:34:14	From: 194.2.224.249:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-10 11:34:31	From: 136.0.16.217:3127	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-10 11:34:54	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-10 11:35:23	From: 	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-10 11:36:20	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-10 11:39:21	From: 84.200.22.203:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-10 11:40:03	From: 136.0.16.217:8089	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-10 11:40:25	From: 159.203.80.26:3128	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-10 12:42:11	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-10 20:43:27	From: 13.75.105.192:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-10 21:58:12	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-10 21:59:31	From: 136.0.16.217:3127	Partner: http://www.bitcoinsreward.com	Response: 150 satoshi was sent to you 
+Time: 2016-04-10 22:00:55	From: 188.203.209.91:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-10 22:01:47	From: 211.48.0.116:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-10 23:42:10	From: 180.214.245.82:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 00:10:27	From: 136.0.16.217:7808	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 00:10:32	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 00:10:33	From: 136.0.16.217:7808	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 00:10:35	From: 136.0.16.217:7808	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 00:11:07	From: 136.0.16.217:3127	Partner: http://coins4america.com	Response: 500 satoshi was sent to 
+Time: 2016-04-11 00:11:09	From: 136.0.16.217:3127	Partner: http://www.bitcoinsreward.com	Response: 
+Time: 2016-04-11 09:19:33	From: 194.2.224.249:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 09:20:08	From: 136.0.16.217:3127	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-11 09:20:30	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-11 09:36:09	From: 159.203.80.26:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-11 11:35:23	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-11 11:50:53	From: 177.136.224.19:8080	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-04-11 11:51:12	From: 134.249.168.16:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 11:56:18	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-11 11:56:52	From: 177.136.224.19:8080	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-11 11:57:09	From: 188.203.209.91:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 11:57:49	From: 61.19.202.132:3129	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 11:58:24	From: 84.200.22.203:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 11:58:39	From: 223.19.212.30:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 11:59:02	From: 24.246.120.35:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 11:59:32	From: 27.254.47.203:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-11 11:59:52	From: 62.210.52.37:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 12:00:54	From: 159.203.80.26:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 12:01:18	From: 177.136.224.19:8080	Partner: http://witchfaucet.com	Response: 666 satoshi was sent to you 
+Time: 2016-04-11 12:31:01	From: 194.2.224.249:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-11 12:31:17	From: 159.203.80.26:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-11 15:00:30	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 16:52:02	From: 136.0.16.217:3127	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 17:16:21	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-11 17:16:41	From: 136.0.16.217:3127	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-11 17:19:50	From: 159.203.80.26:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 17:20:14	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 17:20:42	From: 188.203.209.91:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 17:21:15	From: 181.40.112.194:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 17:21:39	From: 211.48.0.116:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 17:22:04	From: 140.130.190.222:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 17:37:46	From: 136.0.16.217:7808	Partner: http://coins4america.com	Response: 
+Time: 2016-04-11 17:38:10	From: 159.203.80.26:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 17:38:33	From: 181.40.112.194:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 17:38:54	From: 188.203.209.91:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 17:39:42	From: 211.48.0.116:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-11 17:40:21	From: 177.136.224.19:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-04-11 17:40:43	From: 134.249.168.16:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-11 17:41:05	From: 124.244.77.129:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 17:42:14	From: 186.203.134.5:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 19:12:52	From: 188.203.209.91:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-11 19:36:09	From: 113.252.105.65:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-11 21:16:08	From: 181.40.112.194:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-11 21:16:32	From: 211.48.0.116:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 21:16:54	From: 124.244.77.129:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:17:22	From: 134.249.168.16:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-11 21:17:47	From: 84.200.22.203:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 21:18:24	From: 85.23.90.67:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 21:18:44	From: 188.203.209.91:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-04-11 21:18:56	From: 188.203.209.91:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:19:04	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:19:22	From: 165.138.83.87:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:19:31	From: 84.200.22.203:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:19:46	From: 84.200.22.203:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 21:42:03	From: 188.203.209.91:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-11 22:38:06	From: 91.205.131.191:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-04-11 22:38:35	From: 	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 22:38:56	From: 188.203.209.91:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 22:39:29	From: 177.136.224.19:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 22:39:52	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 22:54:43	From: 188.203.209.91:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 22:55:00	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-11 22:55:28	From: 181.40.112.194:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 22:55:46	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:00:39	From: 140.130.190.222:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:01:04	From: 124.244.77.129:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:01:32	From: 186.203.134.5:3128	Partner: http://witchfaucet.com	Response: 666 satoshi was sent to you 
+Time: 2016-04-11 23:10:55	From: 24.246.120.35:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:11:22	From: 104.236.17.72:8118	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:12:14	From: 47.90.1.211:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:12:34	From: 177.43.50.214:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:12:36	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:12:54	From: 64.20.48.83:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:13:05	From: 84.200.22.203:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:13:13	From: 188.203.209.91:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:13:40	From: 188.203.209.91:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-11 23:14:10	From: 	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-11 23:14:13	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-11 23:17:18	From: 	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:17:34	From: 194.2.224.249:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-11 23:18:42	From: 188.203.209.91:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-11 23:19:52	From: 64.20.48.83:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:20:21	From: 181.40.112.194:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:21:25	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:21:58	From: 177.136.224.19:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:22:16	From: 134.249.168.16:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:22:49	From: 84.200.22.203:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:23:13	From: 223.19.212.30:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:23:41	From: 197.253.34.22:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:24:20	From: 128.199.241.66:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:24:46	From: 150.161.21.204:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:25:12	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:25:28	From: 188.203.209.91:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 23:25:54	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:26:25	From: 181.40.112.194:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-11 23:26:53	From: 177.136.224.19:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-11 23:43:21	From: 211.48.0.116:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-11 23:43:40	From: 194.2.224.249:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-11 23:44:43	From: 186.203.134.5:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-12 02:52:02	From: 194.2.224.249:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-12 02:52:34	From: 188.203.209.91:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:40:16	From: 	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 10:40:34	From: 52.91.186.159:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 10:40:57	From: 52.34.159.148:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-12 10:41:32	From: 52.53.235.179:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:42:00	From: 54.175.68.29:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-12 10:42:17	From: 52.35.214.67:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-12 10:42:37	From: 136.0.16.217:7808	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-12 10:42:55	From: 52.35.10.160:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:43:28	From: 223.67.136.218:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-12 10:43:46	From: 52.35.194.94:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:44:17	From: 52.35.214.67:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:44:40	From: 54.213.159.9:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:45:00	From: 52.34.159.148:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:45:20	From: 52.34.190.145:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:45:38	From: 52.34.247.156:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:46:01	From: 52.34.27.79:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:46:29	From: 45.32.154.4:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:46:45	From: 91.121.29.217:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:47:07	From: 52.35.112.173:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:47:33	From: 107.21.22.83:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:47:52	From: 52.35.7.236:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:48:09	From: 52.35.84.111:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:48:31	From: 24.205.244.90:7004	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:48:40	From: 54.174.29.183:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:49:06	From: 52.53.210.242:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:49:27	From: 52.34.252.155:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:49:29	From: 221.180.160.113:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:49:48	From: 221.180.160.114:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:50:10	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 10:58:53	From: 219.129.164.122:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 10:58:57	From: 219.129.164.122:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 10:59:53	From: 52.34.219.143:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-12 11:05:54	From: 176.32.187.218:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 11:06:21	From: 46.165.247.248:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-12 11:09:44	From: 178.46.186.34:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 11:09:55	From: 46.101.108.217:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 11:10:24	From: 119.9.53.81:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 11:10:45	From: 180.183.152.111:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 11:11:24	From: 54.255.199.179:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 11:16:15	From: 52.35.194.94:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-12 11:18:21	From: 52.35.214.67:8083	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 11:19:13	From: 54.213.159.9:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-12 11:19:37	From: 52.34.190.145:8083	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 11:20:00	From: 52.34.247.156:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-12 11:20:34	From: 45.32.154.4:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 11:21:00	From: 52.35.112.173:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-12 12:06:35	From: 54.175.68.29:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-12 16:08:11	From: 52.53.235.179:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 16:25:07	From: 52.34.219.143:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-12 17:40:32	From: 107.21.22.83:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 21:16:57	From: 54.174.29.183:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-12 21:17:31	From: 221.180.160.113:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-12 21:17:55	From: 51.255.166.17:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-12 21:18:17	From: 104.238.151.79:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 21:19:30	From: 54.255.199.179:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-12 21:20:00	From: 101.200.178.46:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-12 21:21:57	From: 120.192.92.98:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 21:22:51	From: 120.198.244.29:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-12 21:23:39	From: 87.246.37.167:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 21:24:08	From: 113.255.49.49:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:17:09	From: 159.226.224.180:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:18:00	From: 178.46.186.34:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:18:25	From: 180.183.158.102:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-12 23:18:43	From: 52.79.105.109:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-12 23:19:15	From: 185.49.87.236:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-12 23:19:35	From: 5.189.129.137:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:20:50	From: 136.0.16.217:3127	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-12 23:26:19	From: 211.48.0.116:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:27:39	From: 139.59.248.12:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:28:15	From: 212.72.141.18:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:28:48	From: 113.252.105.65:80	Partner: http://witchfaucet.com	Response: Invalid captcha code!
+Time: 2016-04-12 23:29:27	From: 145.255.15.37:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:29:49	From: 169.255.223.18:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:30:51	From: 45.55.21.40:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-12 23:31:36	From: 119.9.53.81:3128	Partner: http://witchfaucet.com	Response: 666 satoshi was sent to you 
+Time: 2016-04-13 01:46:02	From: 51.255.166.17:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-13 10:32:25	From: 223.100.98.44:8000	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-13 10:33:24	From: 210.1.81.52:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-13 10:33:45	From: 128.199.85.17:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-13 14:34:05	From: 119.9.53.81:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-13 15:58:07	From: 51.255.166.17:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-13 16:51:43	From: 207.135.97.21:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-13 16:51:58	From: 207.135.97.21:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-13 16:52:02	From: 207.135.97.21:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-13 19:01:37	From: 46.105.157.252:4444	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-13 19:31:30	From: 113.254.254.11:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-13 21:20:00	From: 24.246.120.35:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-13 21:22:54	From: 113.254.254.11:80	Partner: http://coins4america.com	Response: 
+Time: 2016-04-13 21:56:50	From: 60.191.153.75:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 04:49:42	From: 178.46.128.12:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 10:22:43	From: 109.89.96.2:8080	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-14 10:55:56	From: 54.174.99.72:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 10:56:24	From: 203.119.13.155:8080	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-14 10:56:37	From: 54.67.79.132:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 10:56:56	From: 54.67.77.203:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 10:57:44	From: 54.193.70.209:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 10:57:55	From: 54.191.151.211:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 10:58:23	From: 54.67.61.145:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 10:58:43	From: 109.89.96.2:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 10:59:21	From: 54.213.51.114:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:00:24	From: 52.37.153.102:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:00:36	From: 52.34.226.80:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 11:01:06	From: 54.67.75.223:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:01:38	From: 54.67.13.192:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:02:07	From: 52.11.155.60:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:02:26	From: 54.174.99.72:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:02:54	From: 54.67.79.132:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:03:19	From: 52.27.209.61:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:03:44	From: 54.67.44.95:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:03:56	From: 54.191.149.7:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:04:21	From: 54.67.110.136:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:04:38	From: 54.174.131.74:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:05:16	From: 52.24.21.140:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:05:38	From: 52.25.185.232:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:05:59	From: 52.25.80.92:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:06:37	From: 54.174.46.25:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:07:18	From: 52.27.234.27:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:07:32	From: 52.33.32.76:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:09:57	From: 54.191.180.231:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:46:48	From: 54.175.110.176:8083	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-14 11:47:25	From: 54.191.12.101:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 11:47:57	From: 54.193.16.48:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 11:48:17	From: 54.193.6.45:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:48:41	From: 52.27.219.228:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-14 11:49:08	From: 54.191.105.188:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-14 11:49:26	From: 54.191.51.252:8083	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-14 11:49:46	From: 54.152.52.138:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-14 19:49:42	From: 52.26.3.247:8083	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-15 10:29:14	From: 54.174.46.25:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-15 10:29:34	From: 54.191.218.33:8083	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-15 10:29:53	From: 54.164.152.106:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-15 10:30:08	From: 54.174.113.222:8083	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-15 10:30:24	From: 54.67.62.186:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-15 10:31:02	From: 54.175.141.67:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-15 10:31:31	From: 54.191.218.33:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-15 10:56:19	From: 54.174.113.222:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-15 11:40:35	From: 54.67.72.87:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-15 11:41:59	From: 54.193.38.74:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-15 14:12:09	From: 54.175.110.176:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-15 16:34:15	From: 54.174.46.25:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-15 21:38:00	From: 54.174.46.25:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-15 21:38:00	From: 54.174.46.25:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-15 21:38:01	From: 54.174.46.25:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-15 21:38:02	From: 54.174.46.25:8083	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-16 09:17:36	From: 54.174.46.25:8083	Partner: http://coins4america.com	Response: 
+Time: 2016-04-16 09:18:14	From: 54.164.152.106:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-16 09:18:52	From: 54.213.51.114:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-16 09:19:27	From: 54.191.12.101:8083	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-16 09:19:51	From: 54.174.46.25:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-16 09:20:25	From: 195.89.201.48:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-16 09:21:24	From: 54.164.152.106:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-16 09:22:01	From: 52.192.103.163:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-16 09:22:27	From: 54.213.51.114:8083	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-16 15:50:44	From: 195.89.201.48:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-16 23:03:09	From: 195.89.201.48:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-16 23:03:29	From: 54.164.152.106:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-16 23:03:55	From: 	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-04-16 23:04:19	From: 195.89.201.48:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-04-17 12:18:20	From: 54.164.152.106:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-17 12:18:42	From: 52.192.103.163:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-18 14:33:24	From: 195.89.201.48:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-19 00:03:24	From: 52.192.103.163:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 10:50:18	From: 54.222.134.3:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-19 10:51:14	From: 43.226.162.107:8000	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 10:52:12	From: 43.226.162.107:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-19 10:52:39	From: 223.67.136.218:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-19 10:53:08	From: 186.203.134.5:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-19 10:54:01	From: 120.52.72.68:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-19 16:49:57	From: 54.222.134.3:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-19 16:50:39	From: 186.203.134.5:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-19 17:56:57	From: 176.53.20.44:8088	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-19 18:17:19	From: 116.226.22.22:8118	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-19 20:56:04	From: 5.135.174.2:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-19 20:56:35	From: 40.118.209.103:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 21:45:48	From: 176.53.20.44:8088	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 21:55:21	From: 5.135.174.2:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-19 22:49:06	From: 45.32.64.63:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-19 22:56:02	From: 118.161.73.180:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 23:43:57	From: 13.91.111.179:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-19 23:44:18	From: 37.187.154.55:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-19 23:45:02	From: 186.203.134.5:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-19 23:46:33	From: 120.198.244.29:9999	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-19 23:47:16	From: 5.135.174.2:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-19 23:47:43	From: 5.135.174.2:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-20 00:04:33	From: 111.206.190.155:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-20 00:05:36	From: 13.91.111.179:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-20 00:20:46	From: 37.187.154.55:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-20 00:20:55	From: 37.187.154.55:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-20 16:16:35	From: 	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-20 16:17:01	From: 54.222.134.3:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-20 18:01:38	From: 54.222.134.3:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-20 19:15:34	From: 54.222.134.3:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-20 19:15:57	From: 54.222.134.3:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-22 03:02:24	From: 120.52.72.20:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-22 03:03:34	From: 120.52.72.20:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-22 03:12:51	From: 196.47.129.65:8080	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-22 08:42:30	From: 45.32.64.63:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-23 10:01:28	From: 178.88.64.83:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-23 10:03:02	From: 187.44.255.10:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-23 10:03:36	From: 178.22.148.122:3129	Partner: http://coins4america.com	Response: 
+Time: 2016-04-23 19:27:12	From: 13.91.111.179:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-23 19:28:36	From: 124.244.77.129:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-23 20:08:11	From: 37.187.154.55:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-23 20:22:40	From: 202.159.42.246:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-23 20:23:35	From: 47.88.20.1:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-23 22:57:57	From: 79.188.42.46:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-23 23:50:36	From: 221.180.160.114:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-23 23:51:31	From: 121.22.252.241:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-23 23:52:25	From: 123.56.228.224:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-23 23:55:06	From: 219.129.164.122:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-23 23:55:36	From: 190.202.82.236:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-23 23:56:09	From: 120.198.244.29:8081	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-23 23:59:04	From: 54.222.134.3:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-24 00:00:06	From: 183.61.162.40:8088	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-24 00:00:33	From: 88.149.221.35:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-24 00:01:05	From: 221.180.160.113:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:03:41	From: 116.226.243.166:8118	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:04:12	From: 121.22.252.241:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-24 00:07:06	From: 221.180.160.114:80	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-24 00:08:51	From: 58.134.102.3:12696	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:11:40	From: 220.181.32.106:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:12:27	From: 123.56.28.196:8888	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-24 00:13:39	From: 61.153.201.187:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-04-24 00:14:44	From: 122.226.128.251:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-24 00:15:28	From: 111.206.190.155:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-24 00:15:53	From: 119.255.9.93:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:21:08	From: 112.253.2.61:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-24 00:21:28	From: 187.177.14.104:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 00:23:27	From: 197.253.34.22:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-24 06:53:41	From: 95.106.85.79:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-24 08:28:45	From: 95.106.85.79:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 08:56:23	From: 101.81.233.27:8118	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-24 10:07:29	From: 119.29.170.77:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-24 11:18:44	From: 36.75.250.91:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-24 23:55:46	From: 92.246.220.227:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-25 00:18:47	From: 92.246.220.227:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-25 09:38:27	From: 64.12.236.2:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-25 09:38:51	From: 177.131.23.226:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-25 09:39:32	From: 178.210.168.241:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-25 09:40:06	From: 180.183.79.104:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-25 09:40:31	From: 84.54.136.254:8080	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-25 10:04:50	From: 45.33.105.154:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-25 10:05:17	From: 50.30.34.30:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-25 10:42:24	From: 52.23.162.219:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-25 11:17:15	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-25 11:17:19	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-25 14:37:46	From: 93.158.193.75:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-25 17:03:47	From: 218.75.8.244:3128	Partner: http://gold-bit.co.in	Response: 250 satoshi was sent to you 
+Time: 2016-04-25 17:23:48	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-25 19:57:26	From: 221.180.160.113:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-25 19:58:52	From: 220.181.32.106:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-26 04:19:09	From: 199.175.48.95:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-26 04:20:16	From: 199.175.48.95:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-26 04:20:31	From: 199.175.48.95:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-26 08:52:23	From: 221.180.160.113:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-26 08:54:10	From: 221.180.160.113:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-26 09:45:20	From: 222.45.16.30:8118	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-26 16:32:39	From: 221.180.160.113:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-26 16:34:11	From: 221.180.160.113:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-26 18:02:08	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-04-26 18:04:42	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-26 22:27:36	From: 54.172.207.120:8083	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-26 22:28:03	From: 54.175.174.20:8083	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-27 01:20:56	From: 54.84.4.72:8083	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-27 12:10:53	From: 176.31.99.80:2222	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-27 12:11:27	From: 213.217.99.111:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-27 12:12:00	From: 112.253.2.61:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-27 12:13:52	From: 101.200.178.46:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-27 12:14:28	From: 183.245.147.50:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-04-27 16:14:50	From: 197.149.179.76:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-27 16:57:45	From: 52.50.100.208:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-27 16:59:37	From: 177.92.48.200:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-27 19:26:20	From: 24.148.100.200:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-27 21:22:45	From: 180.183.191.32:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-04-27 21:25:50	From: 182.52.104.63:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-04-27 21:31:27	From: 54.169.197.163:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-27 21:31:52	From: 107.170.37.71:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-27 21:32:10	From: 185.114.136.61:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-27 21:32:36	From: 188.211.239.26:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-04-27 21:33:14	From: 59.124.123.22:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-04-27 21:33:38	From: 5.189.180.192:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-04-27 22:44:50	From: 59.124.123.22:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:47:10	From: 185.114.136.61:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-28 09:47:26	From: 5.189.180.192:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:47:45	From: 5.79.100.109:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-28 09:48:08	From: 31.207.0.99:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-04-28 09:48:31	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-28 09:48:45	From: 74.208.79.84:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:49:26	From: 138.185.238.66:9000	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-28 09:54:02	From: 31.207.0.99:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-28 09:55:10	From: 138.185.238.66:9000	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-28 09:55:31	From: 37.187.154.55:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:56:22	From: 58.132.254.75:80	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-04-28 09:57:38	From: 195.138.87.63:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:58:30	From: 31.207.0.99:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 09:59:03	From: 51.254.129.191:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:00:43	From: 37.187.154.55:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:01:40	From: 183.245.147.24:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:02:03	From: 128.199.167.223:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:02:42	From: 190.202.82.236:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:03:00	From: 188.166.174.18:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:03:32	From: 37.205.11.196:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:03:49	From: 103.53.169.109:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:04:05	From: 74.208.79.84:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:22:01	From: 49.51.11.120:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 10:26:13	From: 202.108.23.247:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 14:00:39	From: 50.30.34.30:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-28 14:01:18	From: 111.206.190.155:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-04-28 14:01:34	From: 183.196.242.197:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-28 16:14:22	From: 64.12.236.2:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-29 11:10:43	From: 5.79.100.109:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-29 11:12:05	From: 14.199.106.169:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-29 11:12:53	From: 58.132.254.75:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-29 11:14:28	From: 31.207.0.99:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-29 11:15:04	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-29 13:10:57	From: 23.97.164.249:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-29 17:57:19	From: 23.97.164.249:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-29 17:58:11	From: 114.130.43.49:80	Partner: http://mydailybtc.com	Response: 448 satoshi was sent to you 
+Time: 2016-04-29 18:12:04	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-04-30 09:09:02	From: 58.132.254.75:80	Partner: http://coins4america.com	Response: 
+Time: 2016-04-30 09:24:00	From: 117.55.212.18:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-04-30 09:24:28	From: 115.160.137.178:8088	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-04-30 09:25:38	From: 180.251.166.9:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-04-30 09:25:44	From: 180.251.166.9:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-04-30 09:26:19	From: 43.226.162.107:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-04-30 09:27:14	From: 117.55.212.18:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-01 19:52:05	From: 114.130.43.49:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-01 19:53:04	From: 58.132.254.75:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-02 19:20:49	From: 114.130.43.49:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-02 19:22:18	From: 195.138.87.63:3128	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-02 19:23:40	From: 31.207.0.99:3128	Partner: http://mydailybtc.com	Response: 1146 satoshi was sent to you 
+Time: 2016-05-02 23:20:18	From: 58.132.254.75:80	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-03 01:02:03	From: 114.130.43.49:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-03 03:15:26	From: 114.130.43.49:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-03 03:25:02	From: 114.130.43.49:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-03 04:21:20	From: 117.55.212.18:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-03 04:50:41	From: 58.132.254.75:80	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-03 07:51:39	From: 190.56.135.82:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-03 10:49:30	From: 64.30.135.57:56419	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-03 11:00:18	From: 96.84.57.209:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-03 11:59:22	From: 197.148.36.134:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-03 12:00:24	From: 197.148.36.134:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-03 12:00:39	From: 197.148.36.134:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-03 13:34:58	From: 43.226.162.107:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-03 13:36:00	From: 43.226.162.107:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-03 13:54:37	From: 43.226.162.107:8000	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-03 13:54:52	From: 43.226.162.107:8000	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-03 15:55:28	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-03 16:26:06	From: 117.55.212.18:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-03 17:54:43	From: 114.130.43.49:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-03 17:54:53	From: 114.130.43.49:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-03 17:54:55	From: 114.130.43.49:80	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-03 17:54:57	From: 114.130.43.49:80	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-03 17:57:47	From: 119.93.82.148:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-03 17:58:10	From: 119.93.82.148:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-03 18:07:00	From: 31.207.0.99:3128	Partner: http://mydailybtc.com	Response: 489 satoshi was sent to you 
+Time: 2016-05-03 19:21:37	From: 114.130.43.49:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-03 19:22:20	From: 114.130.43.49:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-03 19:27:48	From: 51.254.129.191:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 09:10:57	From: 103.251.180.2:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-04 09:12:01	From: 31.207.0.99:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 09:12:20	From: 66.96.232.100:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-04 09:12:56	From: 51.254.129.191:8888	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-04 09:13:21	From: 111.13.12.216:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 09:16:53	From: 220.181.32.106:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-04 09:28:43	From: 101.200.178.46:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 09:29:05	From: 111.206.190.156:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 09:29:44	From: 50.30.34.30:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 10:18:32	From: 177.131.23.226:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-04 10:19:34	From: 87.229.235.202:8080	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 10:19:57	From: 197.149.179.76:3128	Partner: http://mydailybtc.com	Response: 334 satoshi was sent to you 
+Time: 2016-05-04 10:32:44	From: 111.13.12.216:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-04 10:33:37	From: 177.131.23.226:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 11:47:03	From: 206.55.232.198:80	Partner: http://mydailybtc.com	Response: 710 satoshi was sent to you 
+Time: 2016-05-04 12:15:26	From: 38.83.105.194:8118	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 12:15:56	From: 64.20.48.83:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-04 12:34:37	From: 64.12.236.2:80	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 12:35:00	From: 120.198.244.29:82	Partner: http://mydailybtc.com	Response: 355 satoshi was sent to you 
+Time: 2016-05-04 13:11:10	From: 194.75.53.21:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 14:05:35	From: 185.114.136.61:3128	Partner: http://mydailybtc.com	Response: 477 satoshi was sent to you 
+Time: 2016-05-04 14:26:00	From: 190.158.245.98:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-04 14:41:13	From: 51.254.129.191:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 14:41:57	From: 101.99.22.40:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-04 14:42:45	From: 103.53.169.109:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 14:45:09	From: 31.207.0.99:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-04 14:47:17	From: 91.98.118.178:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 14:47:53	From: 5.63.152.139:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-04 14:56:26	From: 31.207.0.99:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 14:56:50	From: 66.96.232.100:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-04 15:02:04	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-04 15:02:29	From: 183.245.147.24:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 15:03:03	From: 123.56.28.108:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 15:03:53	From: 103.53.169.109:8080	Partner: http://mydailybtc.com	Response: 525 satoshi was sent to you 
+Time: 2016-05-04 15:29:04	From: 177.91.23.221:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 15:29:53	From: 177.91.23.221:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-04 15:43:35	From: 111.13.12.216:80	Partner: http://mydailybtc.com	Response: 1705 satoshi was sent to you 
+Time: 2016-05-04 16:12:27	From: 218.3.177.19:8089	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 16:34:27	From: 37.205.11.196:3128	Partner: http://mydailybtc.com	Response: 707 satoshi was sent to you 
+Time: 2016-05-04 16:46:55	From: 64.30.135.58:56419	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 16:51:29	From: 31.207.0.99:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-04 16:59:36	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-04 17:01:11	From: 117.55.212.18:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-04 17:02:00	From: 64.30.135.58:56419	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-04 17:02:42	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 17:03:21	From: 51.254.129.191:8888	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 17:04:34	From: 111.13.12.216:80	Partner: http://mydailybtc.com	Response: 460 satoshi was sent to you 
+Time: 2016-05-04 17:13:34	From: 31.207.0.99:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 17:15:00	From: 120.25.84.211:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-04 17:49:57	From: 176.9.148.56:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 17:50:13	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 17:50:31	From: 176.9.148.45:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-04 17:51:05	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-04 17:51:54	From: 117.184.117.229:3128	Partner: http://witchfaucet.com	Response: 
+Time: 2016-05-04 17:53:03	From: 176.9.148.56:8080	Partner: http://mydailybtc.com	Response: 303 satoshi was sent to you 
+Time: 2016-05-04 20:01:48	From: 50.240.46.244:7004	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-04 20:03:00	From: 111.13.12.216:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-04 21:38:15	From: 117.55.212.18:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-05 09:11:30	From: 50.30.34.30:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 09:11:57	From: 183.245.147.37:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-05 09:13:36	From: 59.124.123.22:3128	Partner: http://mydailybtc.com	Response: 322 satoshi was sent to you 
+Time: 2016-05-05 10:47:12	From: 24.148.100.200:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 11:24:36	From: 190.202.82.236:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-05 12:00:51	From: 49.51.11.120:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 12:01:23	From: 218.75.0.83:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 12:02:15	From: 37.236.148.243:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 12:07:28	From: 37.205.11.196:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 12:08:59	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-05 12:10:38	From: 190.158.245.98:8080	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-05 12:13:44	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 12:21:10	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-05 12:49:18	From: 123.56.28.196:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 13:33:34	From: 61.153.201.187:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 13:35:57	From: 61.153.201.187:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 14:04:13	From: 50.30.34.30:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 14:04:28	From: 50.30.34.30:8888	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-05 14:04:30	From: 50.30.34.30:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 14:04:45	From: 50.30.34.30:8888	Partner: http://coins4america.com	Response: 
+Time: 2016-05-05 14:04:48	From: 50.30.34.30:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 14:04:49	From: 50.30.34.30:8888	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-05 14:04:52	From: 50.30.34.30:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 14:04:55	From: 50.30.34.30:8888	Partner: http://coins4america.com	Response: 
+Time: 2016-05-05 14:05:00	From: 50.30.34.30:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 14:05:05	From: 50.30.34.30:8888	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-05 14:50:09	From: 120.52.72.48:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-05 14:57:54	From: 24.148.100.200:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 14:58:13	From: 107.170.37.71:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 14:58:34	From: 185.114.136.61:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 16:19:25	From: 189.11.36.213:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-05 16:35:04	From: 31.207.0.99:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-05-05 16:35:21	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 16:36:34	From: 223.19.212.30:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-05 16:47:46	From: 38.83.105.194:8118	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-05 16:48:09	From: 38.83.105.194:8118	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 16:48:14	From: 38.83.105.194:8118	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-05 17:38:55	From: 119.15.83.58:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-05 17:49:56	From: 176.9.148.45:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-05 17:50:07	From: 176.9.148.45:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 17:50:28	From: 223.19.212.30:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-05 17:50:49	From: 24.249.100.147:3128	Partner: http://mydailybtc.com	Response: 469 satoshi was sent to you 
+Time: 2016-05-05 17:56:26	From: 31.207.0.99:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-05 17:59:07	From: 51.254.129.191:8888	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 09:32:20	From: 120.198.244.29:8081	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-06 09:32:49	From: 176.9.148.56:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 09:33:09	From: 51.254.129.191:8888	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-06 09:33:36	From: 111.13.12.216:80	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-06 09:40:22	From: 120.198.244.29:9999	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-06 09:43:07	From: 64.12.236.2:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 10:11:50	From: 93.174.55.82:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-06 10:12:15	From: 119.15.83.58:8080	Partner: http://mydailybtc.com	Response: 314 satoshi was sent to you 
+Time: 2016-05-06 10:32:07	From: 37.205.11.196:3128	Partner: http://mydailybtc.com	Response: 415 satoshi was sent to you 
+Time: 2016-05-06 10:35:19	From: 189.201.162.19:3128	Partner: http://mydailybtc.com	Response: 426 satoshi was sent to you 
+Time: 2016-05-06 10:58:50	From: 93.174.55.82:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-06 10:59:24	From: 87.255.225.69:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:24:28	From: 177.130.59.66:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:25:00	From: 94.245.171.224:3128	Partner: http://mydailybtc.com	Response: 463 satoshi was sent to you 
+Time: 2016-05-06 11:31:15	From: 36.83.103.181:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:32:33	From: 106.37.177.251:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:33:42	From: 194.177.199.13:3128	Partner: http://mydailybtc.com	Response: 454 satoshi was sent to you 
+Time: 2016-05-06 11:48:46	From: 104.238.158.79:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-06 11:50:27	From: 103.44.26.163:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:51:12	From: 192.163.208.245:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 11:51:37	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-06 11:52:13	From: 60.191.167.93:3128	Partner: http://mydailybtc.com	Response: 352 satoshi was sent to you 
+Time: 2016-05-06 11:54:38	From: 190.63.157.238:8081	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-06 11:55:02	From: 104.207.145.19:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:55:27	From: 116.193.70.38:3128	Partner: http://mydailybtc.com	Response: 481 satoshi was sent to you 
+Time: 2016-05-06 11:56:57	From: 104.207.157.130:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:57:35	From: 78.109.7.167:80	Partner: http://mydailybtc.com	Response: 474 satoshi was sent to you 
+Time: 2016-05-06 11:58:48	From: 114.26.123.117:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 11:59:45	From: 45.63.106.127:3128	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-06 12:00:22	From: 213.111.123.68:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 12:01:07	From: 192.118.76.190:80	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-06 12:48:05	From: 163.172.153.79:3128	Partner: http://mydailybtc.com	Response: 414 satoshi was sent to you 
+Time: 2016-05-06 13:48:04	From: 78.109.7.167:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 13:56:33	From: 78.109.7.166:80	Partner: http://mydailybtc.com	Response: 308 satoshi was sent to you 
+Time: 2016-05-06 13:57:40	From: 194.177.199.13:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 14:00:30	From: 192.118.76.190:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-06 14:00:46	From: 45.63.106.127:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 14:01:05	From: 82.207.57.106:3128	Partner: http://mydailybtc.com	Response: 397 satoshi was sent to you 
+Time: 2016-05-06 14:20:18	From: 45.63.106.127:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-06 14:20:38	From: 46.97.103.50:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 14:21:15	From: 82.207.57.106:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-06 14:58:31	From: 176.120.119.59:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-06 14:59:09	From: 46.101.212.226:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 14:59:45	From: 45.63.106.127:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 15:00:07	From: 116.193.70.38:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 15:00:32	From: 46.105.157.252:4444	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-06 15:01:03	From: 78.109.7.166:80	Partner: http://mydailybtc.com	Response: 434 satoshi was sent to you 
+Time: 2016-05-06 15:25:31	From: 116.193.70.38:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-06 15:25:52	From: 92.245.170.251:8443	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 15:26:38	From: 176.9.148.180:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 15:26:57	From: 164.132.226.160:3128	Partner: http://mydailybtc.com	Response: 540 satoshi was sent to you 
+Time: 2016-05-06 15:28:46	From: 66.199.245.84:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 16:26:34	From: 194.177.199.13:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-06 16:39:57	From: 78.109.7.166:80	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-06 16:40:21	From: 46.101.212.226:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 16:41:01	From: 37.205.11.196:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 16:41:18	From: 82.207.57.106:3128	Partner: http://mydailybtc.com	Response: 534 satoshi was sent to you 
+Time: 2016-05-06 17:00:24	From: 104.131.40.160:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-06 17:01:12	From: 50.31.99.26:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 17:01:33	From: 164.132.57.130:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-06 17:01:52	From: 213.136.84.223:3128	Partner: http://mydailybtc.com	Response: 477 satoshi was sent to you 
+Time: 2016-05-06 22:09:44	From: 190.122.184.85:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-07 00:26:49	From: 78.109.7.167:80	Partner: http://mydailybtc.com	Response: 529 satoshi was sent to you 
+Time: 2016-05-07 03:23:11	From: 	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 11:38:03	From: 109.63.199.116:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-07 16:39:18	From: 31.14.136.210:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-07 16:44:17	From: 	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 16:44:24	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-07 16:45:05	From: 36.83.140.36:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-07 16:53:39	From: 120.198.244.29:8081	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 16:58:38	From: 78.109.7.167:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 18:10:17	From: 197.149.179.76:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-07 19:06:55	From: 92.245.170.251:8443	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-07 19:07:25	From: 31.14.136.210:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-07 20:25:04	From: 31.14.136.210:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-07 21:11:02	From: 31.14.136.210:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 21:11:28	From: 92.245.170.251:8443	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 21:12:20	From: 31.14.136.210:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 21:14:14	From: 197.149.179.76:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 21:14:41	From: 194.177.199.13:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-07 21:15:09	From: 177.131.23.226:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-07 21:22:33	From: 	Partner: http://coins4america.com	Response: You can get a reward again in 2 hours, 52 mins, 35 secs.
+Time: 2016-05-07 21:48:00	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 22:06:17	From: 31.14.136.210:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 23:28:08	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-07 23:32:38	From: 199.195.250.75:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 23:48:37	From: 31.204.151.121:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-07 23:50:56	From: 31.204.151.121:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-07 23:53:34	From: 78.109.7.167:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-07 23:54:10	From: 187.177.14.104:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-07 23:54:43	From: 36.83.103.181:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-08 00:16:02	From: 31.14.136.210:8080	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-08 00:16:32	From: 92.245.170.251:8443	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-08 00:45:37	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-08 12:45:21	From: 46.101.212.226:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-08 12:46:02	From: 92.245.170.251:8443	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-08 17:11:26	From: 144.122.175.164:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-08 17:12:10	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-08 17:15:15	From: 146.185.253.241:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-08 17:16:27	From: 190.122.184.85:8080	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-08 17:17:12	From: 78.109.7.167:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-08 18:27:18	From: 31.14.136.210:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-08 18:58:15	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-08 18:58:24	From: 	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-08 19:55:47	From: 128.199.69.60:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-09 03:19:30	From: 	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-09 13:29:00	From: 218.234.56.206:8088	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-09 14:16:06	From: 31.14.136.210:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-09 14:16:27	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-09 15:01:34	From: 103.44.26.163:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-09 15:01:57	From: 46.101.212.226:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-09 15:02:14	From: 89.28.1.106:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-09 15:02:34	From: 194.177.199.13:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-05-09 15:03:03	From: 123.56.28.196:8888	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-09 15:03:25	From: 183.245.147.50:80	Partner: http://freebtcoins.com	Response: Wrong captcha, try again!
+Time: 2016-05-09 15:03:48	From: 120.52.72.54:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-09 15:04:03	From: 117.135.157.188:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-09 15:04:27	From: 94.242.209.194:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-09 20:02:11	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-09 20:04:17	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-09 20:08:28	From: 120.198.244.29:8081	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-09 21:16:04	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 03:27:54	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 09:39:32	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 09:39:46	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-10 09:53:52	From: 46.101.212.226:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 09:54:40	From: 107.6.150.30:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-10 10:02:35	From: 84.204.83.178:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 10:03:21	From: 123.56.249.155:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-10 10:03:31	From: 128.199.69.60:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 10:04:00	From: 89.28.1.106:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-10 10:04:04	From: 46.101.212.226:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-10 10:04:33	From: 194.177.199.13:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-10 10:05:17	From: 94.242.209.194:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 10:06:28	From: 107.6.150.26:8080	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 10:10:04	From: 183.245.147.37:80	Partner: http://freebtcoins.com	Response: Wrong captcha, try again!
+Time: 2016-05-10 10:10:18	From: 62.210.240.121:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 10:10:35	From: 120.198.244.29:82	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 10:11:54	From: 111.206.190.156:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 10:37:59	From: 117.135.251.74:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 11:29:37	From: 144.76.178.81:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 11:30:25	From: 106.37.177.251:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-10 11:30:51	From: 123.56.249.155:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-10 11:56:36	From: 101.200.182.29:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-10 14:29:08	From: 218.3.177.19:8089	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 14:29:27	From: 92.245.170.251:8443	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-10 15:47:44	From: 95.213.182.164:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 15:47:47	From: 95.213.182.164:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-10 16:29:09	From: 62.175.138.182:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-10 17:57:27	From: 46.101.231.199:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-10 17:57:30	From: 46.101.231.199:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-10 17:57:34	From: 46.101.231.199:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-10 17:57:35	From: 46.101.231.199:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-10 17:57:35	From: 46.101.231.199:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 22:56:57	From: 123.139.88.84:9999	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-10 22:57:34	From: 195.154.111.175:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 22:57:57	From: 123.139.88.84:9999	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-10 22:58:24	From: 123.139.88.84:9999	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 22:58:56	From: 114.130.43.49:80	Partner: http://coins4america.com	Response: Wrong captcha, try again!
+Time: 2016-05-10 22:59:12	From: 116.193.70.38:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-10 22:59:40	From: 110.136.230.176:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 23:00:10	From: 52.69.156.204:8888	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-10 23:01:14	From: 73.129.7.140:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-10 23:02:54	From: 36.83.140.36:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-10 23:04:48	From: 62.175.138.182:3128	Partner: http://gold-bit.co.in	Response: 300 satoshi was sent to you 
+Time: 2016-05-11 14:33:23	From: 200.29.191.149:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-11 14:33:45	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 14:34:01	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-11 14:36:35	From: 139.59.143.25:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-11 14:36:52	From: 192.118.76.190:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-11 16:00:44	From: 192.118.76.190:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 16:01:29	From: 46.101.231.199:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-11 16:02:02	From: 139.59.143.25:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-11 16:02:26	From: 63.150.152.151:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 16:02:45	From: 95.213.172.30:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 16:02:57	From: 178.62.247.158:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-11 16:03:49	From: 194.177.199.13:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-11 17:02:39	From: 106.75.197.184:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-11 19:28:08	From: 46.97.103.50:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-11 19:28:39	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-11 19:44:31	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-11 19:44:56	From: 116.193.70.38:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 19:49:57	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-11 19:50:28	From: 111.206.190.156:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 19:51:23	From: 64.103.27.184:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-11 19:52:02	From: 194.177.199.13:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-11 20:16:47	From: 106.75.197.184:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-11 20:26:13	From: 200.29.191.149:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-11 20:39:01	From: 	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-11 20:40:04	From: 116.193.70.38:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-11 21:11:14	From: 108.61.197.84:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-11 21:12:32	From: 43.226.162.110:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-11 21:13:16	From: 111.206.199.249:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-11 21:13:38	From: 176.192.63.162:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 21:14:39	From: 120.52.72.65:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 21:14:57	From: 111.206.190.155:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-11 21:15:25	From: 190.202.82.236:3128	Partner: http://freebtcoins.com	Response: Wrong captcha, try again!
+Time: 2016-05-11 21:25:55	From: 120.52.72.48:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-11 21:40:01	From: 120.52.72.55:80	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-11 22:08:08	From: 46.97.103.50:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-12 01:00:58	From: 111.206.190.156:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-12 01:16:42	From: 117.156.15.124:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-12 08:00:29	From: 37.187.101.226:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-12 08:00:35	From: 37.187.101.226:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-12 09:55:20	From: 87.245.184.236:3128	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-12 09:55:34	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-12 09:55:48	From: 198.50.226.112:4444	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-12 09:56:22	From: 139.59.143.25:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-12 09:57:01	From: 50.234.96.11:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-12 09:57:21	From: 31.207.0.99:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-12 09:57:40	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-12 09:58:19	From: 139.59.143.25:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-12 09:58:45	From: 212.126.102.178:8080	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-12 14:13:45	From: 87.245.184.236:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-12 14:14:23	From: 112.17.8.212:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 14:14:49	From: 111.13.12.216:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-12 14:15:11	From: 51.254.129.191:8888	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-12 15:18:24	From: 111.206.190.155:80	Partner: http://faucet.jokertimes.co	Response: 500 satoshi was sent to 
+Time: 2016-05-12 16:27:15	From: 139.59.143.25:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-12 17:04:39	From: 139.59.143.25:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 18:03:10	From: 183.247.158.197:8003	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-12 18:08:46	From: 107.170.244.155:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-12 19:28:41	From: 146.185.167.198:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-12 20:07:04	From: 159.8.13.139:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-12 20:17:41	From: 188.211.239.6:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-12 20:51:54	From: 202.169.57.59:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 20:52:26	From: 92.222.81.186:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-12 21:27:50	From: 159.8.13.139:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-12 21:45:32	From: 163.172.153.177:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 21:45:54	From: 146.185.167.198:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-12 21:56:04	From: 87.245.184.236:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 21:56:18	From: 178.62.247.158:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-12 21:56:33	From: 91.121.94.39:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-12 21:56:44	From: 163.172.153.177:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-12 22:54:11	From: 185.135.68.30:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 22:54:47	From: 193.232.57.60:8090	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-12 23:43:04	From: 193.232.57.60:8090	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-12 23:43:20	From: 159.8.13.139:8080	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-12 23:49:06	From: 87.245.184.236:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-12 23:49:40	From: 107.155.52.230:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-12 23:51:12	From: 105.235.106.59:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-12 23:51:57	From: 185.135.68.30:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-12 23:52:20	From: 144.122.174.108:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-12 23:52:39	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-12 23:53:00	From: 185.135.68.30:80	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 05:28:48	From: 45.62.244.34:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-13 05:56:58	From: 185.135.68.30:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-13 10:06:15	From: 163.172.153.177:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-13 10:06:28	From: 146.185.167.198:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-13 10:06:52	From: 87.245.184.236:3128	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-13 10:07:25	From: 91.121.94.39:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-13 10:07:50	From: 186.103.169.162:8080	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-13 10:08:06	From: 146.185.167.198:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-13 10:08:27	From: 87.245.184.236:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 11:35:15	From: 146.185.167.198:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 11:35:35	From: 87.245.184.236:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 11:35:51	From: 91.121.94.39:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 13:03:15	From: 185.135.68.30:80	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-13 14:02:56	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-13 14:22:32	From: 146.185.167.198:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-13 14:22:51	From: 87.245.184.236:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-13 14:23:20	From: 146.185.167.198:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-13 14:23:36	From: 87.245.184.236:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-13 14:23:54	From: 77.87.103.120:8080	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-13 14:24:20	From: 159.8.13.139:8080	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-13 15:35:49	From: 143.137.160.6:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-13 16:35:06	From: 158.181.128.141:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-13 17:37:27	From: 213.129.39.227:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-13 17:37:39	From: 213.129.39.227:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-13 21:42:38	From: 111.206.190.156:80	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-14 12:37:18	From: 159.8.13.139:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-14 12:38:04	From: 180.183.159.107:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-14 13:57:11	From: 190.202.82.236:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-14 14:32:29	From: 219.156.157.186:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-14 15:25:23	From: 52.35.170.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-14 18:45:28	From: 138.122.103.158:8088	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-14 20:25:32	From: 192.118.76.190:80	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-14 21:16:47	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-14 21:22:36	From: 92.245.170.251:8443	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-14 21:22:56	From: 92.245.170.251:8443	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-14 21:54:16	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-14 21:55:54	From: 178.62.0.188:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-14 22:26:46	From: 113.252.181.81:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-15 01:24:53	From: 190.202.82.236:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-15 01:25:32	From: 181.48.87.226:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-05-15 01:26:14	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: Insufficient funds.
+Time: 2016-05-15 01:26:43	From: 164.132.57.130:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-15 02:26:54	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-15 02:27:03	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-15 02:27:04	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-15 02:27:05	From: 190.202.82.236:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-15 06:02:39	From: 118.144.151.145:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-15 10:18:02	From: 89.28.1.106:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-15 10:18:26	From: 164.132.57.130:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-15 17:54:33	From: 164.132.57.130:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 11:46:29	From: 164.132.57.130:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 11:46:35	From: 164.132.57.130:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 13:21:43	From: 185.26.114.31:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 13:35:36	From: 147.46.21.40:8080	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-16 14:21:42	From: 31.207.0.99:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 14:22:37	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 14:22:49	From: 31.207.0.99:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 14:23:38	From: 185.26.114.31:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 14:24:04	From: 188.0.168.211:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 14:24:58	From: 85.198.103.35:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-16 14:25:41	From: 58.84.15.122:8080	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-16 14:25:59	From: 188.0.168.211:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-16 15:38:10	From: 105.235.106.59:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 17:16:16	From: 128.199.90.236:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 17:32:18	From: 120.198.244.29:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-16 17:32:34	From: 120.198.244.29:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 17:32:37	From: 120.198.244.29:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-16 17:32:39	From: 120.198.244.29:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-16 17:32:42	From: 120.198.244.29:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-16 17:32:44	From: 120.198.244.29:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-16 19:17:49	From: 178.62.0.188:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:07:10	From: 219.156.157.186:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:07:46	From: 212.235.226.133:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-16 22:09:44	From: 164.132.57.130:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-16 22:32:29	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:32:55	From: 	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:33:36	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:33:57	From: 38.97.16.132:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:34:18	From: 183.89.153.204:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:34:57	From: 121.22.252.248:8000	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:35:47	From: 14.118.182.171:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:37:02	From: 89.28.1.106:3128	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-16 22:37:46	From: 125.62.14.162:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:38:25	From: 122.226.171.10:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:39:21	From: 31.207.0.99:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-16 22:40:12	From: 61.153.241.211:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:40:42	From: 101.200.182.29:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-16 22:41:51	From: 87.245.184.236:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:42:25	From: 220.181.32.106:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:43:42	From: 163.177.159.144:9999	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:44:28	From: 117.135.157.188:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:44:50	From: 31.207.0.99:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:45:07	From: 162.243.1.131:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:45:15	From: 46.97.103.50:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:46:00	From: 168.102.134.47:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-16 22:46:36	From: 113.53.83.103:8080	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-16 22:47:05	From: 197.243.50.242:3129	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-16 22:47:43	From: 36.85.187.101:80	Partner: http://freebtcoins.com	Response: 
+Time: 2016-05-16 22:49:12	From: 	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:49:14	From: 185.72.246.41:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:50:33	From: 207.62.234.53:8118	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:52:56	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:54:00	From: 61.8.35.136:8088	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-16 22:54:07	From: 61.8.35.136:8088	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 22:54:31	From: 38.97.16.132:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-16 22:54:57	From: 38.97.16.132:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-16 22:55:43	From: 207.62.234.53:8118	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-16 23:15:50	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-16 23:16:23	From: 38.97.16.132:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-16 23:17:30	From: 121.22.252.248:8000	Partner: http://freebtcoins.com	Response: 
+Time: 2016-05-16 23:18:17	From: 38.97.16.132:3128	Partner: http://freebtcoins.com	Response: 
+Time: 2016-05-16 23:18:48	From: 163.177.159.144:80	Partner: http://freebtcoins.com	Response: Wrong captcha, try again!
+Time: 2016-05-16 23:19:20	From: 89.28.1.106:3128	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-17 05:53:42	From: 	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-17 08:03:30	From: 198.211.112.55:8080	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-17 09:06:42	From: 162.243.80.184:80	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-17 09:26:23	From: 52.35.170.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 09:32:00	From: 162.243.80.184:80	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-17 11:15:37	From: 51.254.129.191:8888	Partner: http://coins4america.com	Response: 
+Time: 2016-05-17 11:16:07	From: 61.153.241.211:3128	Partner: http://mydailybtc.com	Response: Invalid captcha code!
+Time: 2016-05-17 11:32:50	From: 151.80.166.65:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-17 11:33:01	From: 151.80.166.65:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-17 11:35:37	From: 37.187.171.37:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-17 11:36:10	From: 221.7.36.78:80	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-17 11:36:33	From: 52.35.170.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:36:54	From: 120.198.244.29:8081	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-17 11:47:53	From: 	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-17 11:48:10	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-17 11:48:33	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:49:39	From: 95.154.81.32:8080	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:50:06	From: 207.62.234.53:8118	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-17 11:55:24	From: 221.7.36.78:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-17 11:55:44	From: 31.207.0.99:3128	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-17 11:56:50	From: 87.245.184.236:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:57:32	From: 177.131.23.226:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:58:16	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:58:49	From: 114.35.98.39:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-17 11:58:57	From: 114.80.72.174:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 11:59:30	From: 52.35.170.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:00:00	From: 183.224.77.75:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:00:26	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:00:34	From: 123.56.28.196:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:01:05	From: 218.75.8.244:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:01:19	From: 120.194.18.90:81	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:01:48	From: 194.177.199.13:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:02:27	From: 218.75.8.244:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:02:38	From: 218.75.8.244:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:40:06	From: 176.53.24.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 12:40:41	From: 183.245.147.50:80	Partner: http://coins4america.com	Response: 1500 satoshi was sent to 
+Time: 2016-05-17 13:47:52	From: 45.62.244.34:3128	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-17 13:48:25	From: 45.62.244.34:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 14:05:40	From: 120.198.244.29:8080	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-17 14:17:45	From: 51.254.129.191:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 15:53:01	From: 176.53.24.104:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-17 15:54:00	From: 61.153.201.187:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-17 16:12:31	From: 	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-17 19:58:46	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-17 19:59:03	From: 51.254.129.191:8888	Partner: http://faucet.jokertimes.co	Response: 
+Time: 2016-05-17 21:53:59	From: 64.12.236.2:80	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-18 01:11:09	From: 	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-18 05:27:22	From: 	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-18 10:36:29	From: 51.254.129.191:8888	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-18 10:38:05	From: 202.153.128.56:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-18 10:57:59	From: 	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-18 11:26:19	From: 212.235.226.133:3128	Partner: http://gold-bit.co.in	Response: Invalid captcha code!
+Time: 2016-05-18 11:26:57	From: 212.235.226.133:3128	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-18 11:27:47	From: 212.235.226.133:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-18 11:28:19	From: 210.212.49.11:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-18 11:29:24	From: 24.205.244.90:7004	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-18 11:30:04	From: 36.83.105.87:80	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-18 11:30:30	From: 36.83.100.213:80	Partner: http://coins4america.com	Response: 
+Time: 2016-05-18 11:31:10	From: 64.12.236.2:80	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-18 11:32:05	From: 210.212.49.11:3128	Partner: http://coins4america.com	Response: 350 satoshi was sent to 
+Time: 2016-05-18 12:49:19	From: 185.114.136.61:3128	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-18 15:41:32	From: 51.254.126.75:3128	Partner: http://mydailybtc.com	Response: 
+Time: 2016-05-18 16:42:20	From: 119.40.96.91:3128	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-18 18:41:54	From: 87.245.184.236:3128	Partner: http://coins4america.com	Response: 
+Time: 2016-05-18 21:01:23	From: 115.31.183.94:80	Partner: http://faucet.jokertimes.co	Response: Wrong captcha, try again!
+Time: 2016-05-18 22:01:36	From: 63.150.152.151:8080	Partner: http://coins4america.com	Response: This faucet made too many requests, try again later!
+Time: 2016-05-18 22:02:05	From: 1.175.68.131:80	Partner: http://mydailybtc.com	Response: Insufficient funds.
+Time: 2016-05-18 22:02:29	From: 223.95.74.201:8003	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
+Time: 2016-05-18 22:04:56	From: 52.196.158.79:8888	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-18 22:05:33	From: 223.95.74.201:8003	Partner: http://gold-bit.co.in	Response: This faucet exceeded it's safety limits!
+Time: 2016-05-18 22:06:05	From: 196.200.51.169:8080	Partner: http://freebtcoins.com	Response: Insufficient funds.
+Time: 2016-05-18 22:18:16	From: 41.77.184.36:8080	Partner: http://coins4america.com	Response: 
+Time: 2016-05-18 22:47:30	From: 101.200.178.46:3128	Partner: http://faucet.jokertimes.co	Response: 250 satoshi was sent to 
+Time: 2016-05-18 23:45:23	From: 104.156.247.105:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-18 23:45:50	From: 104.156.247.105:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-19 00:06:50	From: 1.175.68.131:80	Partner: http://coins4america.com	Response: Insufficient funds.
+Time: 2016-05-19 01:24:34	From: 63.150.152.151:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-19 06:50:02	From: 212.235.226.133:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-05-19 09:50:47	From: 119.40.96.91:3128	Partner: http://faucet.jokertimes.co	Response: Insufficient funds.
+Time: 2016-05-19 10:43:38	From: 212.235.226.133:3128	Partner: http://gold-bit.co.in	Response: 
+Time: 2016-06-03 14:24:08	From: 182.253.16.114:8080	Partner: http://mydailybtc.com	Response: 
+Time: 2016-06-03 14:24:31	From: 197.243.50.242:3129	Partner: http://faucet.jokertimes.co	Response: This faucet made too many requests, try again later!
