@@ -35,7 +35,7 @@ class Freesatoshiki extends AFaucet {
         } else {
             $page = $result['content'];
             $res = explode("<div class=\"form-group\">", $page);
-            $res2 = explode("<div", $res[3]);
+            $res2 = explode("<div", $res[2]);
             return $res2[0];
         }
     }
